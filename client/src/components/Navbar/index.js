@@ -67,7 +67,13 @@ export default function Navbar({ styles }) {
             className={({ isActive }) => (isActive ? styles["active"] : "")}
             to="/forma"
           >
-            Add here !
+            Add here!
+          </NavLink>
+          <NavLink
+            className={({ isActive }) => (isActive ? styles["active"] : "")}
+            to="/report"
+          >
+            View Records here!
           </NavLink>
           <NavLink
             className={({ isActive }) => (isActive ? styles["active"] : "")}

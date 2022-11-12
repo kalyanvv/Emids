@@ -6,6 +6,7 @@ import Products from "./pages/Products";
 import Diseases from "./pages/Diseases";
 import DiseaseInfo from "./pages/Diseases/diseaseInfo";
 import ProductInfo from "./pages/Products/productInfo";
+import Report from './components/Doctors/Report'
 import Landing from "./pages/Landing";
 import Signup from "./pages/Signup";
 import Login from "./pages/Login";
@@ -18,6 +19,8 @@ import Orders from "./pages/Orders";
 import Doctors from "./pages/Doctors";
 import SignupCopy from "./pages/Signupcopy";
 import LoginCopy from "./pages/Logincopy";
+import Forma from './components/Doctors/Forma';
+
 function App() {
   const { loginin, admin } = useSelector((state) => state.authReducer);
   return (
@@ -52,12 +55,16 @@ function App() {
           element={loginin ? <Products /> : <Navigate to="/" />}
         />
         <Route
-          path="/product/:id"
-          element={loginin ? <ProductInfo /> : <Navigate to="/" />}
+          path="/forma"
+          element={loginin ? <Forma/>: < Navigate to="/" />}
         />
         <Route
           path="/disease"
           element={loginin ? <Diseases /> : <Navigate to="/" />}
+        />
+        <Route
+          path="/report"
+          element={loginin ? <Report /> : <Navigate to="/" />}
         />
         <Route
           path="/signupcopy"
