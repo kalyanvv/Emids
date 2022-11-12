@@ -1,0 +1,458 @@
+{
+  "productlist": [
+    {
+      "id": "626156abc99b46b879a56e81",
+      "name": "A To Z Ns New Strip Of 15 Tablets",
+      "price": "₹102.50",
+      "uses": "A to Z NS tablet is used to treat vitamin and minerals deficiency.\\nTo improve the overall immunity, growth, and development of the body.\\nTo boost your energy and enhance healing.",
+      "img": "images/sp1.png",
+      "rating": "4",
+      "desc": "A to Z NS tablet contains a combination of multivitamins, multiminerals, and lycopene. A to Z NS tablet is used to restore the decreased level of vitamins and minerals. It is essential for the overall growth and development of an individual. It also enhances healing, provides energy to perform daily activities, and improves immunity. Lycopene is an antioxidant that acts by improving healing and preventing cell damage. Take this tablet as advised by your doctor. Shake the bottle well, before each use"
+    },
+    {
+      "id": "626157ebc99b46b879a56e82",
+      "name": "Citzen 10mg Tablet",
+      "price": "₹93.48",
+      "uses": "Citzen Tablet is used to treat allergies associated with airways (allergic rhinitis) and Skin (urticaria).",
+      "img": "images/sp3.png",
+      "rating": "3",
+      "desc": "Citzen Tablet is an anti-allergic medication and is used to treat symptoms associated with allergies such as itching, sneezing, watery eyes, running nose, rashes, and pale red bumps. It contains cetirizine as its active ingredient. Take as directed by the doctor and in doses and duration as prescribed. Side effects of the medicine are drowsiness, headache, weakness, and dry mouth. Most of them are temporary but if you feel the side effects persist or your condition worsens, you should contact the doctor immediately. Citzen Tablet should be used with caution in children and it is recommended to consult the doctor before using the medicine in pregnant and lactating women."
+    },
+    {
+      "id": "62615887c99b46b879a56e83",
+      "name": "Dettol Antiseptic Liquid Bottle Of 1 L",
+      "price": "₹298.27",
+      "uses": "First aid disinfection through the topical application on cuts, scratches and wounds.\\nClothing disinfection through addition in the water while washing.\\nSurface and floor disinfection by adding 5ml of Dettol to a bucket of water.\\nUsed as a post-shaving disinfectant by diluting 15 ml Dettol liquid in 300ml of water.",
+      "img": "images/sp4.png",
+      "rating": "5",
+      "desc": "Dettol Antiseptic Liquid is a topical liquid for cuts and wounds, as well as for maintaining home hygiene. Dettol liquid can also be used with proper dilution, to sanitize your home, toys and babywear by killing over 100 illness-causing germs. Recommended by the Indian Medical Association this antiseptic liquid from Dettol is also great for sanitizing home surfaces or adding to laundry to get rid of germs. Dettol Antiseptic Liquid should be an essential part of your first aid kit at home, this 1-litre bottle comes with a fresh pine scent."
+    },
+    {
+      "id": "626159b1c99b46b879a56e84",
+      "name": "3 Ply Mask Packet Of 50",
+      "price": "₹187.65",
+      "desc": "The 3-ply face mask has flexible ear loops and has a high level of breathability, making it good for use in medical facilities, laboratories, food establishments, as well as in other public places. It helps protect against dust particles and suspended liquid droplets in the air. These masks have a triple-layered design that allows seamless crimping and breathability. These masks are also free of latex and fibre free, such that people with allergies can also use them easily.",
+      "uses": "These masks also serve the purpose of pollution control such that they prevent inhalation of suspended particulate pollutants.\\nThey can also be used in industrial sites like mines and other construction areas to prevent inhaling harmful chemical fumes.",
+      "img": "images/sp5.png",
+      "rating": "3"
+    },
+    {
+      "id": "62615a50c99b46b879a56e85",
+      "name": "Dolo 650mg Strip Of 15 Tablets",
+      "price": "₹25.35",
+      "desc": "Dolo 650 tablet is a pain-relieving medicine. It also helps reduce fever. Dolo 650 contains a paracetamol as its active ingredent. Dolo 650 tablet is used for a wide range of conditions such as headache, backache, migraine, toothache, body pain etc. Pain is an unpleasant feeling caused by the formation of certain chemicals in the body in response to an injury, tissue damage or disease. Dolo 650 tablet works by blocking the formation of these chemicals responsible for fever and pain. The dose of the duration of this medicine varies among individuals depending on the severity and condition it is being used for. You should not take more than 4 tablets of the Dolo 650 in any 24 hours. If you feel that your pain and fever are relieved, do not take it further. This medicine is not meant for children under 12 years of age. Avoid taking Dolo 650 tablet too often and for prolonged duration without medical advice.",
+      "uses": "Fever\\nToothache\\nHeadache\\nMigraine\\nBackache\\nBody pain\\nMusculoskeletal pain\n",
+      "img": "images/sp6.png",
+      "rating": "4"
+    },
+    {
+      "id": "62615ce5c99b46b879a56e86",
+      "name": "Revital H, 30 Capsules",
+      "price": "₹310.00",
+      "desc": "Revital H is a nutraceutical for daily health with a combination of 10 Vitamins, 9 Minerals and Ginseng in appropriate concentrations. It increases oxygen consumption in the body and helps to maintain energy & stamina through the day",
+      "uses": "Energy: Ginseng, B-Vitamins and Iron helps support daily energy needs\\nMental Alertness: Ginseng improves mental alertness & concentration\\nReflex Mind: Ginseng helps in increasing your ability to handle stress\\nImmunity: Vitamins and Minerals helps improve your health & immunity\\nWellbeing: Keeps you active for your daily routine.Boosts immunity and energy",
+      "img": "images/sp7.png",
+      "rating": "3"
+    },
+    {
+      "id": "62615dc0c99b46b879a56e87",
+      "name": "Saridon Headache Relief Tablet- Strip Of 10 Tablets",
+      "price": "₹35.45",
+      "desc": "Saridon tablets are usually used for headache relief. This tablet acts as a mild analgesic medicine that is primarily used as a pain reliever. It can also be used to relieve toothache, menstrual pain and postoperative pain. It is recommended by the doctors during fever as it contains paracetamol. It is known to be a fast-acting medicine that is safe and works effectively.",
+      "uses": "This tablet has a triple action formula which helps block the chemical responsible for relaying the pain signal to the brain.\\nIt modulates the intensity of pain and provides relief.\\nImproves common symptoms of cold and flu.\\nClears nasal congestion and sore throat.\\nInstant action.\n",
+      "img": "images/sp8.png",
+      "rating": "4"
+    },
+    {
+      "id": "62615ec0c99b46b879a56e88",
+      "name": "Volini Pain Relief Spray - 60 Gm",
+      "price": "₹172.64",
+      "desc": "Volini Spray is a pain relief spray for quick and effective pain relief for joints, muscles and other areas where you experience pain. With special ingredients that penetrate deeply, Volini Spray helps to provide fast and long-lasting relief. With its compact size and fast action, Volini Spray is an essential addition to your home first aid kit and can also be used to provide instant relief due to sports-related injuries",
+      "uses": "For fast-acting relief through topical spraying on sudden pains such as those caused by injury or overexertion.\\nFor easing symptoms of chronic pain such as joint and muscular pains associated with age.\n",
+      "img": "images/sp9.png",
+      "rating": "4"
+    },
+    {
+      "id": "62615f4ac99b46b879a56e89",
+      "name": "Moov Pain Relief Cream For Back Pain, Muscle Pain & Joint Pain - 5g | 100% Ayurvedic Formula",
+      "price": "₹15.00",
+      "desc": "Moov Cream helps in relieving the pain and relaxes the muscles and help to recover fast. These ingredients penetrate deep inside to produce the warmth and are known for their pain relieving properties. An analgesic (or pain relieving) ointment made using 100% ayurvedic ingredients helps in relaxing muscle stiffness and relieving pain effectively. It gives a fast and long-lasting relief from muscle pain, neck, and backache and inflammation.",
+      "uses": "Reduces irritation and swelling around the affected area\\nThe mint leaves gives a cooling effect to the pain and treats the sore muscles and relieves joint aches\\nTurpentine oil helps to relieve pain from underneath the tissue and relaxes the muscles\\nEucalyptus Oil in the moove cream provides a soothing warmth and makes it an excellent massage cream for joint pain\\nMoov pain relief cream has a unique fast absorption formula that allows it work quickly and get rid of pain",
+      "img": "images/sp10.png",
+      "rating": "5"
+    },
+    {
+      "id": "62616044c99b46b879a56e8a",
+      "name": "Soframycin Skin Cream 30gm",
+      "price": "₹45.39",
+      "desc": "Soframycin Skin cream is an antibiotic medicine. Soframycin cream is used for the treatment of skin, hair and nail infections caused by bacteria and open wounds suspected to have a bacterial infection. It is also used for the treatment of infection in the external ear. Soframycin Skin cream contains framycetin as its active ingredient. It is an antibiotic that works by killing the bacteria responsible for the infection. The dose and duration of the treatment with Soframycin cream are decided by your doctor after diagnosis. You should use this medicine as advised by your doctor for the exact prescribed duration in order to see effective results. This cream should be used externally only.",
+      "uses": "Soframycin Skin cream is used for the infection of hair, nails, skin and external ear such as impetigo, furunculosis, sycosis barbae, otitis media and paronychia.\\nTo treat skin conditions such as burns, scalds, wounds, ulcers and boils suspected to have a bacterial infection.\\nIt is also used to treat secondary infection in sores due to scabies and scratching of scalp skin due to lice.",
+      "img": "images/sp13.png",
+      "rating": "5"
+    },
+    {
+      "id": "626173d6c99b46b879a56e8b",
+      "name": "Cofsils Orange Lozenges Strip Of 10",
+      "price": "₹24.00",
+      "desc": "Cofsil orange cold & cough lozenges as the name suggests is a lozenge that can help a person gain relief from symptoms of cold and cough. Throat irritation and congestion is one of the most common symptoms of common cough and cold. Cofsil orange cold & cough lozenges are the perfect solutions to gain relief from irritated throat conditions caused by cold. Cofsil cold & cough lozenges come in six different flavours and Cofsil orange cold & cough lozenges are one of the most popular ones. The components of cough lozenge act quickly to provide relief to a stressed throat. When throat irritations are a nuisance, Cofsil orange cold & cough lozenges can effectively provide fast-acting relief with its medially curated components. The orange flavour of the lozenge is very tasty and does not feel like a medicated lozenge. Taking the lozenges is a very effective first step of action to treat common cough and cold.",
+      "uses": "The cough lozenge is taken to relieve infections in the throat or sore throat caused by an infection or common cough and cold. Cofsil cold & cough lozenges provide very effective relief from symptoms caused by these",
+      "img": "images/sp14.png",
+      "rating": "4"
+    },
+    {
+      "id": "626174b2c99b46b879a56e8c",
+      "name": "Vicks Inhaler Keychain Pack Of 1",
+      "price": "₹52.51",
+      "desc": "A stuffy nose sees no time or place. It picks up anytime, anywhere. For the ultimate nasal relief, that can be easily carried around, anytime anywhere, Vicks Inhaler comes to the rescue to provide ultimate relief to a stuffy, blocked nose that can hinder day-to-day activities. Economical, compact and effective, Vicks Inhaler has been giving fast and temporary “mobile” relief from nasal clogging due to colds, hay fever or upper respiratory allergy since 1951. This little gem of a tube soothes clogged nozzles and easily fits even in kiddie pockets. You can be assured that wherever cold gets to you, nasal relief is just one sniff away.",
+      "uses": "Helps in relieving a stuffy, blocked nose.\\nIts menthol freshness clears the nose after a couple of consistent uses and thus eradicates a stuffy nose.\\nTo get rid of the stuffy, blocked nose caused by cough and cold.",
+      "img": "images/sp15.png",
+      "rating": "5"
+    },
+    {
+      "id": "626175ccc99b46b879a56e8d",
+      "name": "Vicks Vaporub 50ml, Relief From Cold, Cough, Headache And Body Pain",
+      "price": "₹124.70",
+      "desc": "The Vicks Vaporub is an effective balm that helps alleviate multiple symptoms of cough and cold. Upper respiratory and middle respiratory congestions can be very uncomfortable and often reduce the quality of your life for several days on end. With Vicks Vaporub, you can easily escape from these uneasy symptoms of chest congestion and blockages in the nasal passage due to the common cold. This wonderful concoction, that is now a household name, is made from both medicinal and herbal extracts to provide quick and long-lasting relief from symptoms of cough and cold.",
+      "uses": "Vicks Vaporub is used mainly to get relief from respiratory issues like cough, chest and nasal congestion and throat irritation.\\nApplying Vicks Vaporub for wheezing is another common use. It helps to ease the throat that reduces the urge to wheeze and cough.\\nUsing Vicks Vaporub for sneezing may also provide some relief.\\nVicks Vaporub is also used for general pain relief with headaches, joint pains and muscle sprains",
+      "img": "images/sp16.png",
+      "rating": "3"
+    },
+    {
+      "id": "6261764bc99b46b879a56e8e",
+      "name": "Hansaplast Corn Plaster Packet Of 4",
+      "desc": "The Hansaplast Corn Plaster is a product targeted at providing relief from the agonizing pain of corns that may appear on parts of the body, particularly the feet. This plaster is specially designed to offer immediate pressure relief and eliminate the corn. It is an ayurvedic corn plaster equipped with the active ingredient, Narmalic Amal, which promotes the natural healing and softening of the corn. It has a unique design that makes it easy to apply and offers a good grip and coverage for even the hard-to-cover parts of the foot.\nEach packet of the Hansaplast Corn Plaster contains 4 plaster strips.\n",
+      "uses": "It is used to soften and eliminate the corns present on the body, especially the foot.\\nThe plaster has a centre ring containing an ayurvedic active ingredient called Narmalic Amal which helps to naturally soften the hardcore of the corn, thereby facilitating its removal.\\nIt also includes a soft cushioning foam that shields the corn.\\nThe plaster strips have a specific shape that ensures ease of application and better grip in addition to having a skin-friendly adhesive action",
+      "img": "images/sp17.png",
+      "rating": "5",
+      "price": "₹30.00"
+    }
+  ],
+  "disease": [
+    {
+      "id": "623f2e6c0159b3625849e3f8",
+      "name": "ACNE",
+      "image": "images/acne.png",
+      "cure": "Wash problem areas with a gentle cleanser\\nTry over-the-counter acne products to dry excess oil and promote peeling\\nProtect your skin from the sun\\nAvoid friction or pressure on your skin",
+      "symptoms": "Whiteheads (closed plugged pores)\\nBlackheads (open plugged pores)\\nSmall red, tender bumps (papules)\\nPimples (pustules), which are papules with pus at their tips.\\nLarge, solid, painful lumps under the skin (nodules)"
+    },
+    {
+      "id": "6266ca6e303c86a74821cbc8",
+      "name": "ASTHAMA",
+      "image": "images/aasthama.png",
+      "symptoms": "•Shortness of breath\n.\\n•Chest tightness or pain\n.\\n•Wheezing when exhaling, which is a common sign of asthma in children\n.\\n•Trouble sleeping caused by shortness of breath, coughing or wheezing\n.\\n•Coughing or wheezing attacks that are worsened by a respiratory virus, such as a cold or the flu\n",
+      "cure": "•Bronchodilators: These medicines relax the muscles around your airways. The relaxed muscles let the airways move air. They also let mucus move more easily through the airways. These medicines relieve your symptoms when they happen and are used for intermittent and chronic asthma.\n.\\n•Anti-inflammatory medicines: These medicines reduce swelling and mucus production in your airways. They make it easier for air to enter and exit your lungs. Your healthcare provider may prescribe them to take every day to control or prevent your symptoms of chronic asthma.\n.\\n•Biologic therapies for asthma: These are used for severe asthma when symptoms persist despite proper inhaler therapy.\n"
+    },
+    {
+      "id": "623f30730159b3625849e3f9",
+      "name": "BACK PAIN",
+      "image": "images/backpain.jpg",
+      "cure": "Exercise to Loosen Muscles. Although it may seem counterintuitive to exercise when lower back pain is causing you grief, the right kind of movement can help eliminate the discomforts\\nUse Hot/Cold Treatments\\nStretch More.\\nGet Better Shoes\\nReduce Your Stress\\nGet Better Sleep.",
+      "symptoms": ""
+    },
+    {
+      "id": "623f31cb0159b3625849e3fa",
+      "name": "CORONAVIRUS",
+      "image": "images/covid.png",
+      "symptoms": "Fever\\nCough\\nTirdness\\nLoss of taste or smell\\nSore throat\\nHeadache\\nAches and pains",
+      "cure": "You should consult a doctor in case of any symptoms you encounter. Medicines may or may not cure the virus which in turn leads to death"
+    },
+    {
+      "id": "623f32ce0159b3625849e3fb",
+      "name": "COUGH & COLD",
+      "image": "images/c&c.jpg",
+      "symptoms": "Runny or stuffy nose\\nSore throat\\nCough\\nLow-grade fever\\nSneezing\\nSlight body aches or a mild headache",
+      "cure": "Best medicines for cough and cold are Citzin, Paracatemol, and vicks balm/nasal spray"
+    },
+    {
+      "id": "623f33c10159b3625849e3fc",
+      "name": "DIABETES",
+      "image": "images/diabetes.jpg",
+      "symptoms": "Urinate (pee) a lot, often at night.\\nAre very thirst.\\nLose weight without trying.\\nAre very hungry.\\nHave blurry vision\\nHave numb or tingling hands or feet\\nFeel very tired.\\nHave very dry skin.",
+      "cure": "Metformin (Fortamet, Glumetza, others) is generally the first medication prescribed for type 2 diabetes. It works primarily by lowering glucose production in the liver and improving your body's sensitivity to insulin so that your body uses insulin more effectively."
+    },
+    {
+      "id": "6266cda9303c86a74821cbcc",
+      "name": "DRY EYES",
+      "image": "images/dryeyes.png",
+      "symptoms": "•A stinging, burning, or scratchy sensation in your eyes\n.\\n•Stringy mucus in or around your eyes\n.\\n•Sensitivity to light\n.\\n•Eye redness\n.\\n•A sensation of having something in your eyes\n.\\n•Difficulty wearing contact lenses\n",
+      "cure": "For most people with occasional or mild dry eye symptoms, it's enough to regularly use over-the-counter eyedrops (artificial tears). If your symptoms are persistent and more serious, you have other options. What you do depends on what's causing your dry eyes"
+    },
+    {
+      "id": "623f34b20159b3625849e3fd",
+      "name": "FEVER",
+      "image": "images/fever.png",
+      "symptoms": "Sweating\\nHeadache\\nMuscle aches\\nLoss of appetite\\nDehydration\\n>General weakness",
+      "cure": "Take your temperature and assess your symptoms\\nStay in bed and rest\\nKeep hydrated\\nTake over-the-counter medications like acetaminophen and ibuprofen to reduce fever\\nMedicines like Paracatemol, Cheston Cold are suggested"
+    },
+    {
+      "id": "623f35e90159b3625849e3fe",
+      "name": "FRACTURE",
+      "image": "images/fracturee.jpg",
+      "symptoms": "",
+      "cure": "Cool the affected area by applying and ice pack or ice cubes wrapped in a clean cloth\\nStop any bleeding\\nApply pressure to the wound with a sterile bandage, a clean cloth or a clean piece of clothing\\nImmobilize the injured area"
+    },
+    {
+      "id": "623f36c50159b3625849e3ff",
+      "name": "FUNGAL INFECTION",
+      "image": "images/fungal infection.jpg",
+      "symptoms": "Irritation\\nScaly skin\\nRedness\\nItching\\nSwelling\\nBlisters",
+      "cure": "Antifungal medications work to treat fungal infections. They can either kill fungi directly or prevent them from growing and thriving. Antifungal drugs are available as OTC treatments or prescription medications, and come in a variety of forms, including: creams or ointments.\\nFluconazole is the medicine needed to be used"
+    },
+    {
+      "id": "623f37ff0159b3625849e400",
+      "name": "GATSRITIS",
+      "image": "images/gastritis.jpeg",
+      "symptoms": "Gnawing or burning ache or pain (indigestion) in your upper abdomen that may become either worse or better with eating.\\nNausea.\\nVomiting.\\nA feeling of fullness in your upper abdomen after eating.\\n",
+      "cure": "Taking antacids and other drugs\\nDrinking green tea with raw honey\\nTake a garlic extract supplement.\\nAmoxicillin\\nFlagyl"
+    },
+    {
+      "id": "623f392d0159b3625849e401",
+      "name": "HEADACHE",
+      "image": "images/headache.jpg",
+      "symptoms": "",
+      "cure": "Saridon Tablet\\nMassage therapy\\nMeditation and breathing exercises\\nDrink water"
+    },
+    {
+      "id": "6266cbe1303c86a74821cbc9",
+      "name": "HYPERTENSION",
+      "image": "images/hypertension.png",
+      "symptoms": "Most people with high blood pressure have no signs or symptoms, even if blood pressure readings reach dangerously high levels.\n.\\nA few people with high blood pressure may have headaches, shortness of breath or nosebleeds, but these signs and symptoms aren't specific and usually don't occur until high blood pressure has reached a severe or life-threatening stage.\n",
+      "cure": "•Eating a heart-healthy diet with less salt\n.\\n•Getting regular physical activity\n.\\n•Maintaining a healthy weight or losing weight if you're overweight or obese\n.\\n•Limiting the amount of alcohol you drink\n"
+    },
+    {
+      "id": "6266cc70303c86a74821cbca",
+      "name": "KNEE PAIN",
+      "image": "images/kneepain.jpg",
+      "symptoms": "•Swelling and stiffness\n.\\n•Redness and warmth to the touch\n.\\n•Weakness or instability\n.\\n•Popping or crunching noises\n.\\n•Inability to fully straighten the knee\n",
+      "cure": "•Inspect your knee for swelling, pain, tenderness, warmth and visible bruising\n.\\n•Check to see how far you can move your lower leg in different directions\n.\\n•Push on or pull the joint to evaluate the integrity of the structures in your knee\n.\\nTreatments will vary, depending upon what exactly is causing your knee pain.\n"
+    },
+    {
+      "id": "6266ce18303c86a74821cbcd",
+      "name": "MOUTH ULCERS",
+      "image": "images/Ulcer.jpg",
+      "cure": "•Use over-the-counter topical anesthetic, such as Orajel™ or Anbesol®.\n.\\n•Drink plenty of water.\n.\\n•Practice good oral hygiene to keep your mouth as clean as possible.\n.\\n•Rinse your mouth with warm saltwater a few times each day.\n.\\n•Avoid hot and spicy foods until the ulcer heals.\n",
+      "symptoms": "•Swelling around the ulcer.\n.\\n•Increased soreness when brushing your teeth.\n.\\n•Pain that worsens when eating spicy, salty or sour foods\n"
+    },
+    {
+      "id": "6266c6fc303c86a74821cbc7",
+      "name": "PCOS",
+      "image": "images/pcos.png",
+      "cure": "To help decrease the effects of PCOS, try to.\\n•Maintain a healthy weight. Weight loss can reduce insulin and androgen levels and may restore ovulation. Ask your doctor about a weight-control program, and meet regularly with a dietitian for help in reaching weight-loss goals..\\n•Limit carbohydrates. Low-fat, high-carbohydrate diets might increase insulin levels. Ask your doctor about a low-carbohydrate diet if you have PCOS. Choose complex carbohydrates, which raise your blood sugar levels more slowly.\\n•Be active. Exercise helps lower blood sugar levels. If you have PCOS, increasing your daily activity and participating in a regular exercise ",
+      "symptoms": "•Irregular periods. Infrequent, irregular or prolonged menstrual cycles are the most common sign of PCOS. For example, you might have fewer than nine periods a year, more than 35 days between periods and abnormally heavy periods..\\n•Excess androgen. Elevated levels of male hormones may result in physical signs, such as excess facial and body hair (hirsutism), and occasionally severe acne and male-pattern baldness..\\n•Polycystic ovaries. Your ovaries might be enlarged and contain follicles that surround the eggs. As a result, the ovaries might fail to function regularly.\n"
+    },
+    {
+      "id": "6266cd06303c86a74821cbcb",
+      "name": "SHOULDER PAIN",
+      "image": "images/shoulderpain.jpg",
+      "symptoms": "•Develop severe pain in both shoulders\n.\\n•Also have pain in your thighs\n.\\n•Feel feverish or unwell.\n",
+      "cure": "•Exercises to strengthen weakened muscles, change their co-ordination and improve function\n.\\n•Advice on improving shoulder, neck, and spine posture\n.\\n•Exercises to ease or prevent stiffness\n.\\n•Exercise to increase the range of joint movement\n"
+    },
+    {
+      "id": "623f39c50159b3625849e402",
+      "name": "SNAKE BITE",
+      "image": "images/sanke.png",
+      "symptoms": "The skin around the bite appears tight and discolored. Blisters, often filled with blood, may form in the bite area. Without treatment, tissue around the bite may be destroyed\\nFever\\nGeneral Weakness\\nFaintness",
+      "cure": "Seek medical attention as soon as possible\\nWash the bite with soap and water.\\nCover the bite with a clean, dry dressing.\\nDo not try to suck out the venom"
+    },
+    {
+      "id": "6266ce97303c86a74821cbce",
+      "name": "SORE THROAT",
+      "image": "images/sorethroat.jpg",
+      "symptoms": "•Pain or a scratchy sensation in the throat\n.\\n•Pain that worsens with swallowing or talking\n.\\n•Difficulty swallowing\n.\\n•Sore, swollen glands in your neck or jaw\n.\\n•Wollen, red tonsils\n",
+      "cure": "To ease pain and fever, many people turn to acetaminophen (Tylenol, others) or other mild pain relievers.\nConsider giving your child over-the-counter pain medications designed for infants or children, such as acetaminophen (Children's Tylenol, FeverAll, others) or ibuprofen (Children's Advil, Children's Motrin, others), to ease symptoms.\n"
+    },
+    {
+      "id": "623f3a7a0159b3625849e403",
+      "name": "THYROID",
+      "image": "images/thyroid.jpeg",
+      "symptoms": "Experiencing anxiety, irritability and nervousness.\\nHaving trouble sleeping.\\nLosing weight.\\nHaving an enlarged thyroid gland or a goiter.\\nExperiencing irregular menstrual periods or having your menstrual cycle stop.",
+      "cure": "Remove all potential food allergens from your diet\\nSupplements like iodine, probiotics, and curcumin can do wonders for your thyroid.\\nReduce daily stress.\\nUse medicines prescribed by the doctor only"
+    }
+  ],
+  "users": [
+    {
+      "id": "62454ddc7c1667a8b6a811e2",
+      "fname": "Vanga ",
+      "lname": "Nithin",
+      "email": "nithindev.v20@iiits.in",
+      "phno": "8686415169",
+      "password": "123",
+      "allow": true,
+      "admin": false
+    },
+    {
+      "id": "62454e587c1667a8b6a811e7",
+      "fname": "Vanga ",
+      "lname": "Nithin",
+      "email": "nithindev.v20@iiits.in",
+      "phno": "8686415169",
+      "password": "123",
+      "allow": true,
+      "admin": false
+    },
+    {
+      "id": "6245608d01e9ced109f09560",
+      "fname": "Akash",
+      "lname": "Kumar",
+      "email": "akash639673@gmail.com",
+      "phno": "6396739099",
+      "password": "$123",
+      "allow": true,
+      "admin": false
+    },
+    {
+      "id": "6245744d8028912fcf06b177",
+      "loginin": true,
+      "errors": null,
+      "fname": "Aritro",
+      "lname": "Ghosh",
+      "phno": "7999541064",
+      "email": "ghosharitro66@gmail.com",
+      "admin": true
+    },
+    {
+      "id": "6268dc47d28ae0054d11c6f3",
+      "fname": "ARITRO",
+      "lname": "GHOSH",
+      "email": "aritro.g20@iiits.in",
+      "phno": "7999541064",
+      "password": "123",
+      "allow": true,
+      "admin": false
+    },
+    {
+      "id": "6343ce32ddfe70bb7768d867",
+      "fname": "chinki",
+      "lname": "minki",
+      "email": "chinki7@gmail.com",
+      "phno": "1112221112",
+      "password": "123",
+      "allow": true,
+      "admin": false
+    },
+    {
+      "fname": "chinki",
+      "lname": "minki",
+      "email": "chinki70@gmail.com",
+      "phno": "1112221112",
+      "password": "123",
+      "allow": true,
+      "admin": false,
+      "id": "ocTaAkI"
+    },
+    {
+      "fname": "qwe",
+      "lname": "qwe",
+      "email": "qwe@gmail.com",
+      "password1": "123",
+      "password2": "123",
+      "phno": "7999541064",
+      "allow": true,
+      "admin": false,
+      "id": "JHLOxpz"
+    },
+    {
+      "fname": "shan",
+      "lname": "khan",
+      "email": "shan5@gmail.com",
+      "password1": "123",
+      "password2": "123",
+      "phno": "3999541064",
+      "password": "123",
+      "allow": true,
+      "admin": false,
+      "id": "6T8Q0US"
+    }
+  ],
+  "orders": [
+    {
+      "id": "6268d1f59b4cf0d510771aef",
+      "email": "nithindev.v20@iiits.in",
+      "order": "[{\"id\":\"626156abc99b46b879a56e81\",\"name\":\"A To Z Ns New Strip Of 15 Tablets\",\"img\":\"images/sp1.png\",\"price\":\"₹102.50\",\"quantity\":1}]",
+      "createdAt": "2022-04-27T05:17:41.117Z"
+    },
+    {
+      "id": "6268dc9bd28ae0054d11c6fa",
+      "email": "aritro.g20@iiits.in",
+      "order": "[{\"id\":\"626156abc99b46b879a56e81\",\"name\":\"A To Z Ns New Strip Of 15 Tablets\",\"img\":\"images/sp1.png\",\"price\":\"₹102.50\",\"quantity\":2}]",
+      "createdAt": "2022-04-27T06:03:07.678Z"
+    },
+    {
+      "id": "626dfb7efcf54a2d826674c9",
+      "email": "ghosharitro66@gmail.com",
+      "order": "[{\"id\":\"62615887c99b46b879a56e83\",\"name\":\"Dettol Antiseptic Liquid Bottle Of 1 L\",\"img\":\"images/sp4.png\",\"price\":\"₹298.27\",\"quantity\":1}]",
+      "createdAt": "2022-05-01T03:16:14.690Z"
+    },
+    {
+      "id": "626e37f30fa6fad23781c80b",
+      "email": "nithindev.v20@iiits.in",
+      "order": "[{\"id\":\"626156abc99b46b879a56e81\",\"name\":\"A To Z Ns New Strip Of 15 Tablets\",\"img\":\"images/sp1.png\",\"price\":\"₹102.50\",\"quantity\":3}]",
+      "createdAt": "2022-05-01T07:34:11.817Z"
+    },
+    {
+      "id": "635a53f667c0b6f4517732c3",
+      "email": "shivaramakrishna.m20@iiits.in",
+      "order": "[{\"id\":\"62615ec0c99b46b879a56e88\",\"name\":\"Volini Pain Relief Spray - 60 Gm\",\"img\":\"images/sp9.png\",\"price\":\"₹172.64\",\"quantity\":1}]",
+      "createdAt": "2022-10-27T09:48:38.711Z"
+    },
+    {
+      "id": "635bce57614196ec87237d2a",
+      "email": "ghosharitro66@gmail.com",
+      "order": "[{\"id\":\"626156abc99b46b879a56e81\",\"name\":\"A To Z Ns New Strip Of 15 Tablets\",\"price\":\"₹102.50\",\"uses\":\"A to Z NS tablet is used to treat vitamin and minerals deficiency.\\\\nTo improve the overall immunity, growth, and development of the body.\\\\nTo boost your energy and enhance healing.\",\"img\":\"images/sp1.png\",\"rating\":\"4\",\"desc\":\"A to Z NS tablet contains a combination of multivitamins, multiminerals, and lycopene. A to Z NS tablet is used to restore the decreased level of vitamins and minerals. It is essential for the overall growth and development of an individual. It also enhances healing, provides energy to perform daily activities, and improves immunity. Lycopene is an antioxidant that acts by improving healing and preventing cell damage. Take this tablet as advised by your doctor. Shake the bottle well, before each use\",\"quantity\":1},{\"id\":\"626157ebc99b46b879a56e82\",\"name\":\"Citzen 10mg Tablet\",\"price\":\"₹93.48\",\"uses\":\"Citzen Tablet is used to treat allergies associated with airways (allergic rhinitis) and Skin (urticaria).\",\"img\":\"images/sp3.png\",\"rating\":\"3\",\"desc\":\"Citzen Tablet is an anti-allergic medication and is used to treat symptoms associated with allergies such as itching, sneezing, watery eyes, running nose, rashes, and pale red bumps. It contains cetirizine as its active ingredient. Take as directed by the doctor and in doses and duration as prescribed. Side effects of the medicine are drowsiness, headache, weakness, and dry mouth. Most of them are temporary but if you feel the side effects persist or your condition worsens, you should contact the doctor immediately. Citzen Tablet should be used with caution in children and it is recommended to consult the doctor before using the medicine in pregnant and lactating women.\",\"quantity\":1}]",
+      "createdAt": "2022-10-28T12:43:03.847Z"
+    },
+    {
+      "id": "635bcf37614196ec87237d2f",
+      "email": "ghosharitro66@gmail.com",
+      "order": "[{\"id\":\"62615887c99b46b879a56e83\",\"name\":\"Dettol Antiseptic Liquid Bottle Of 1 L\",\"price\":\"₹298.27\",\"uses\":\"First aid disinfection through the topical application on cuts, scratches and wounds.\\\\nClothing disinfection through addition in the water while washing.\\\\nSurface and floor disinfection by adding 5ml of Dettol to a bucket of water.\\\\nUsed as a post-shaving disinfectant by diluting 15 ml Dettol liquid in 300ml of water.\",\"img\":\"images/sp4.png\",\"rating\":\"5\",\"desc\":\"Dettol Antiseptic Liquid is a topical liquid for cuts and wounds, as well as for maintaining home hygiene. Dettol liquid can also be used with proper dilution, to sanitize your home, toys and babywear by killing over 100 illness-causing germs. Recommended by the Indian Medical Association this antiseptic liquid from Dettol is also great for sanitizing home surfaces or adding to laundry to get rid of germs. Dettol Antiseptic Liquid should be an essential part of your first aid kit at home, this 1-litre bottle comes with a fresh pine scent.\",\"quantity\":1}]",
+      "createdAt": "2022-10-28T12:46:47.291Z"
+    },
+    {
+      "id": "635bcfb0614196ec87237d35",
+      "email": "ghosharitro66@gmail.com",
+      "order": "[{\"id\":\"626156abc99b46b879a56e81\",\"name\":\"A To Z Ns New Strip Of 15 Tablets\",\"price\":\"₹102.50\",\"uses\":\"A to Z NS tablet is used to treat vitamin and minerals deficiency.\\\\nTo improve the overall immunity, growth, and development of the body.\\\\nTo boost your energy and enhance healing.\",\"img\":\"images/sp1.png\",\"rating\":\"4\",\"desc\":\"A to Z NS tablet contains a combination of multivitamins, multiminerals, and lycopene. A to Z NS tablet is used to restore the decreased level of vitamins and minerals. It is essential for the overall growth and development of an individual. It also enhances healing, provides energy to perform daily activities, and improves immunity. Lycopene is an antioxidant that acts by improving healing and preventing cell damage. Take this tablet as advised by your doctor. Shake the bottle well, before each use\",\"quantity\":1}]",
+      "createdAt": "2022-10-28T12:48:48.652Z"
+    },
+    {
+      "id": "635bd22d614196ec87237d3a",
+      "email": "ghosharitro66@gmail.com",
+      "order": "[{\"id\":\"62615ce5c99b46b879a56e86\",\"name\":\"Revital H, 30 Capsules\",\"price\":\"₹310.00\",\"desc\":\"Revital H is a nutraceutical for daily health with a combination of 10 Vitamins, 9 Minerals and Ginseng in appropriate concentrations. It increases oxygen consumption in the body and helps to maintain energy & stamina through the day\",\"uses\":\"Energy: Ginseng, B-Vitamins and Iron helps support daily energy needs\\\\nMental Alertness: Ginseng improves mental alertness & concentration\\\\nReflex Mind: Ginseng helps in increasing your ability to handle stress\\\\nImmunity: Vitamins and Minerals helps improve your health & immunity\\\\nWellbeing: Keeps you active for your daily routine.Boosts immunity and energy\",\"img\":\"images/sp7.png\",\"rating\":\"3\",\"quantity\":1}]",
+      "createdAt": "2022-10-28T12:59:25.543Z"
+    },
+    {
+      "order": "[{\"id\":\"626156abc99b46b879a56e81\",\"name\":\"A To Z Ns New Strip Of 15 Tablets\",\"price\":\"₹102.50\",\"uses\":\"A to Z NS tablet is used to treat vitamin and minerals deficiency.\\\\nTo improve the overall immunity, growth, and development of the body.\\\\nTo boost your energy and enhance healing.\",\"img\":\"images/sp1.png\",\"rating\":\"4\",\"desc\":\"A to Z NS tablet contains a combination of multivitamins, multiminerals, and lycopene. A to Z NS tablet is used to restore the decreased level of vitamins and minerals. It is essential for the overall growth and development of an individual. It also enhances healing, provides energy to perform daily activities, and improves immunity. Lycopene is an antioxidant that acts by improving healing and preventing cell damage. Take this tablet as advised by your doctor. Shake the bottle well, before each use\",\"quantity\":1},{\"id\":\"626157ebc99b46b879a56e82\",\"name\":\"Citzen 10mg Tablet\",\"price\":\"₹93.48\",\"uses\":\"Citzen Tablet is used to treat allergies associated with airways (allergic rhinitis) and Skin (urticaria).\",\"img\":\"images/sp3.png\",\"rating\":\"3\",\"desc\":\"Citzen Tablet is an anti-allergic medication and is used to treat symptoms associated with allergies such as itching, sneezing, watery eyes, running nose, rashes, and pale red bumps. It contains cetirizine as its active ingredient. Take as directed by the doctor and in doses and duration as prescribed. Side effects of the medicine are drowsiness, headache, weakness, and dry mouth. Most of them are temporary but if you feel the side effects persist or your condition worsens, you should contact the doctor immediately. Citzen Tablet should be used with caution in children and it is recommended to consult the doctor before using the medicine in pregnant and lactating women.\",\"quantity\":1}]",
+      "email": "ghosharitro66@gmail.com",
+      "createdAt": "Sun Oct 30 2022 01:00:05 GMT+0530 (India Standard Time)",
+      "id": "Y6431ho"
+    },
+    {
+      "order": "[{\"id\":\"62615887c99b46b879a56e83\",\"name\":\"Dettol Antiseptic Liquid Bottle Of 1 L\",\"price\":\"₹298.27\",\"uses\":\"First aid disinfection through the topical application on cuts, scratches and wounds.\\\\nClothing disinfection through addition in the water while washing.\\\\nSurface and floor disinfection by adding 5ml of Dettol to a bucket of water.\\\\nUsed as a post-shaving disinfectant by diluting 15 ml Dettol liquid in 300ml of water.\",\"img\":\"images/sp4.png\",\"rating\":\"5\",\"desc\":\"Dettol Antiseptic Liquid is a topical liquid for cuts and wounds, as well as for maintaining home hygiene. Dettol liquid can also be used with proper dilution, to sanitize your home, toys and babywear by killing over 100 illness-causing germs. Recommended by the Indian Medical Association this antiseptic liquid from Dettol is also great for sanitizing home surfaces or adding to laundry to get rid of germs. Dettol Antiseptic Liquid should be an essential part of your first aid kit at home, this 1-litre bottle comes with a fresh pine scent.\",\"quantity\":2}]",
+      "email": "ghosharitro66@gmail.com",
+      "createdAt": "Sun Oct 30 2022 01:01:38 GMT+0530 (India Standard Time)",
+      "id": "WrJja0y"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "qew32",
+      "productid": "626156abc99b46b879a56e81",
+      "rating": "3",
+      "name": "Aritro Ghosh",
+      "description": "Good product and I’m satisfed with this product."
+    },
+    {
+      "id": "qew33",
+      "productid": "626156abc99b46b879a56e81",
+      "rating": "4",
+      "name": "Alex",
+      "description": "Nice!!"
+    },
+    {
+      "rating": "3",
+      "description": "brilliant",
+      "productid": "626156abc99b46b879a56e81",
+      "name": "Aritro Ghosh",
+      "id": "XQfaYGt"
+    }
+  ]
+}
